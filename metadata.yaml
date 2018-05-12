@@ -1,0 +1,44 @@
+_repo: The-Scottish-ReformationIts-Epochs-Episodes-Leaders-and-Distinctive-Characteristics_22023
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Christie, James
+    birthdate: 1835
+    deathdate: 1913
+    gutenberg_agent_id: '36539'
+    url: http://www.gutenberg.org/2009/agents/36539
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mitchell, Alexander F. (Alexander Ferrier)
+    alias: Mitchell, A. F. (Alexander Ferrier)
+    birthdate: 1822
+    deathdate: 1899
+    gutenberg_agent_id: '25044'
+    url: http://www.gutenberg.org/2009/agents/25044
+  editor:
+    agent_name: Fleming, David Hay
+    alias: Fleming, D. Hay (David Hay)
+    birthdate: 1849
+    deathdate: 1931
+    gutenberg_agent_id: '25045'
+    url: http://www.gutenberg.org/2009/agents/25045
+description: ''
+gutenberg_issued: '2007-07-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22023'
+  lccn: '01025123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Reformation -- Scotland'
+- !lcc 'BR'
+title: 'The Scottish Reformation
+
+  Its Epochs, Episodes, Leaders, and Distinctive Characteristics'
+url: http://www.gutenberg.org/ebooks/22023
