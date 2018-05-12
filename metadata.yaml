@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '25045'
     url: http://www.gutenberg.org/2009/agents/25045
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22023#The-Scottish-ReformationIts-Epochs-Episodes-Leaders-and-Distinctive-Characteristics
 gutenberg_issued: '2007-07-09'
 gutenberg_type: Text
 identifiers:
